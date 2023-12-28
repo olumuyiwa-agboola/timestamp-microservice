@@ -1,0 +1,33 @@
+{
+  "name": "timestamp-microservice",
+  "version": "0.0.1",
+  "description": "My solution for the Timestamp Microservice project in the Back End Development and APIs Certification course on freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.12.4",
+    "cors": "^2.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olumuyiwa-agboola/timestamp-microservice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/olumuyiwa-agboola/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/olumuyiwa-agboola/timestamp-microservice#readme",
+  "author": "Olumuyiwa Agboola",
+  "keywords": [
+    "node",
+    "express",
+    "freeCodeCamp",
+    "microservice"
+  ],
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "license": "MIT"
+}
